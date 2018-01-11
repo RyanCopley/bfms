@@ -1,0 +1,11 @@
+{
+  "name": "bfms",
+  "version": "0.0.1",
+  "description": "brainfuck microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Copley <github@ryancopley.com>",
+  "license": "MIT"
+}
